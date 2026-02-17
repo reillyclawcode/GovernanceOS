@@ -38,7 +38,6 @@ All dashboard data is sourced from `public/data/seed.json`, derived from the res
 ## Getting started
 
 ```bash
-cd dashboard
 npm install
 npm run dev
 ```
@@ -68,20 +67,19 @@ GovernanceOS is one part of a connected body of work:
 
 ```
 GovernanceOS/
-├── dashboard/
-│   ├── app/
-│   │   ├── page.tsx          # Full dashboard (6 tabs)
-│   │   ├── layout.tsx        # Root layout + metadata
-│   │   └── globals.css       # Glassmorphism theme
-│   ├── public/data/
-│   │   └── seed.json         # All dashboard data
-│   ├── package.json
-│   ├── next.config.js
-│   ├── postcss.config.js
-│   ├── tailwind.config.js
-│   └── tsconfig.json
+├── app/
+│   ├── page.tsx              # Full dashboard (6 tabs)
+│   ├── layout.tsx            # Root layout + metadata
+│   └── globals.css           # Glassmorphism theme
+├── public/data/
+│   └── seed.json             # All dashboard data
 ├── docs/
 │   └── charter-outline.md    # Research notes
+├── package.json
+├── next.config.js
+├── postcss.config.js
+├── tailwind.config.js
+├── tsconfig.json
 └── README.md
 ```
 
