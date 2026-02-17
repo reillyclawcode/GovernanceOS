@@ -1,0 +1,11 @@
+# Node
+node_modules/
+
+# Python
+*.pyc
+__pycache__/
+
+# Editors
+.DS_Store
+.vscode/
+.idea/
