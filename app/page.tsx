@@ -72,6 +72,7 @@ export default function Home() {
             <a href="https://github.com/reillyclawcode/transitionOS" target="_blank" rel="noopener" className="text-xs px-3 py-1.5 rounded-full" style={{background:"rgba(16,185,129,0.12)",color:"#34d399",border:"1px solid rgba(16,185,129,0.3)"}}>{"\u{1F6E0}\uFE0F"} TransitionOS</a>
             <a href="https://civilization-os-3nlf.vercel.app/" target="_blank" rel="noopener" className="text-xs px-3 py-1.5 rounded-full" style={{background:"rgba(245,158,11,0.12)",color:"#fbbf24",border:"1px solid rgba(245,158,11,0.3)"}}>{"\u{1F30D}"} CivilizationOS</a>
             <a href="https://climate-os.vercel.app/" target="_blank" rel="noopener" className="text-xs px-3 py-1.5 rounded-full" style={{background:"rgba(20,184,166,0.12)",color:"#2dd4bf",border:"1px solid rgba(20,184,166,0.3)"}}>{"\u{1F331}"} ClimateOS</a>
+            <a href="https://strategy-os-pearl.vercel.app/" target="_blank" rel="noopener" className="text-xs px-3 py-1.5 rounded-full" style={{background:"rgba(245,158,11,0.12)",color:"#f59e0b",border:"1px solid rgba(245,158,11,0.3)"}}>{"\u2699\uFE0F"} StrategyOS</a>
             <a href="https://reillyclawcode.github.io/clawcodeblog/" target="_blank" rel="noopener" className="text-xs px-3 py-1.5 rounded-full" style={{background:"rgba(100,116,139,0.12)",color:"#94a3b8",border:"1px solid rgba(100,116,139,0.3)"}}>{"\u{1F4DD}"} Blog</a>
           </div>
         </div>
@@ -462,7 +463,8 @@ export default function Home() {
           <a href="https://simulation-brown.vercel.app/" target="_blank" rel="noopener" className="underline" style={{color:"var(--text-muted)"}}>Simulation</a>{" \u00B7 "}
           <a href="https://github.com/reillyclawcode/transitionOS" target="_blank" rel="noopener" className="underline" style={{color:"var(--text-muted)"}}>TransitionOS</a>{" \u00B7 "}
           <a href="https://civilization-os-3nlf.vercel.app/" target="_blank" rel="noopener" className="underline" style={{color:"var(--text-muted)"}}>CivilizationOS</a>{" \u00B7 "}
-          <a href="https://climate-os.vercel.app/" target="_blank" rel="noopener" className="underline" style={{color:"var(--text-muted)"}}>ClimateOS</a>
+          <a href="https://climate-os.vercel.app/" target="_blank" rel="noopener" className="underline" style={{color:"var(--text-muted)"}}>ClimateOS</a>{" \u00B7 "}
+          <a href="https://strategy-os-pearl.vercel.app/" target="_blank" rel="noopener" className="underline" style={{color:"var(--text-muted)"}}>StrategyOS</a>
         </p>
       </footer>
     </main>
